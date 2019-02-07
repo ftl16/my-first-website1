@@ -1,0 +1,35 @@
+h1 {
+  color:darkslategrey;
+  font-family: times;
+  font-size: 50px;
+  text-align: center;
+
+}
+p {
+  color: brown;
+  text-align: center;
+}
+h2 {
+  color: navy;
+  text-align: center;
+}
+body {
+  background-color: powderblue;
+  background-image: url("canada.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
+  font-weight: bold;
+  font-family: arial;
+}
+.button {
+  width: 100px;
+  background-color:indianred;
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  border: 1px solid lightblue;
+  color:lightsalmon;
+}
+li {
+  color: lightcoral;
+}
